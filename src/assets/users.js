@@ -1,7 +1,7 @@
 export const users = [
     {
       "id": 1,
-      "username": "_MitchellRomney",
+      "username": "_IulianBolovan",
       "firstName": "Mitchell",
       "lastName": "Romney",
       "email": "mitchellromney@theearthissquare.com",
@@ -13,7 +13,7 @@ export const users = [
     },
     {
       "id": 2,
-      "username": "JColeNC",
+      "username": "_Sergiu69",
       "firstName": "J.",
       "lastName": "Cole",
       "email": null,
@@ -22,7 +22,7 @@ export const users = [
     },
     {
       "id": 3,
-      "username": "kurtisconner",
+      "username": "_LaurBalaur",
       "firstName": "kurtis",
       "lastName": "conner",
       "email": null,
@@ -31,7 +31,7 @@ export const users = [
     },
     {
       "id": 4,
-      "username": "boburnham",
+      "username": "_Roxanica",
       "firstName": "Bo",
       "lastName": "Burnham",
       "email": null,
